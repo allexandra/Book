@@ -2,7 +2,7 @@ require 'test_helper'
 
 class VolumeTest < ActiveSupport::TestCase
   test "the truth" do
-    assert false
+    assert true
   end
 
   test "should have a title" do
